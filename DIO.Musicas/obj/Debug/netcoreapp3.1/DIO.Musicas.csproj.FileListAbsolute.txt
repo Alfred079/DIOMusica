@@ -1,0 +1,14 @@
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\bin\Debug\netcoreapp3.1\DIO.Musicas.exe
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\bin\Debug\netcoreapp3.1\DIO.Musicas.deps.json
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\bin\Debug\netcoreapp3.1\DIO.Musicas.runtimeconfig.json
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\bin\Debug\netcoreapp3.1\DIO.Musicas.runtimeconfig.dev.json
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\bin\Debug\netcoreapp3.1\DIO.Musicas.dll
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\bin\Debug\netcoreapp3.1\DIO.Musicas.pdb
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\obj\Debug\netcoreapp3.1\DIO.Musicas.csproj.AssemblyReference.cache
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\obj\Debug\netcoreapp3.1\DIO.Musicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\obj\Debug\netcoreapp3.1\DIO.Musicas.AssemblyInfoInputs.cache
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\obj\Debug\netcoreapp3.1\DIO.Musicas.AssemblyInfo.cs
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\obj\Debug\netcoreapp3.1\DIO.Musicas.csproj.CoreCompileInputs.cache
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\obj\Debug\netcoreapp3.1\DIO.Musicas.dll
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\obj\Debug\netcoreapp3.1\DIO.Musicas.pdb
+D:\DIO\APPs\DIO.Musicas\DIO.Musicas\DIO.Musicas\obj\Debug\netcoreapp3.1\DIO.Musicas.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Musicas", "DIO.Musicas\DIO.Musicas.csproj", "{D09FA501-4BC3-4064-8FEA-CA371D216222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D09FA501-4BC3-4064-8FEA-CA371D216222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09FA501-4BC3-4064-8FEA-CA371D216222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09FA501-4BC3-4064-8FEA-CA371D216222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09FA501-4BC3-4064-8FEA-CA371D216222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05C77B42-B576-434D-A083-F65DB01DFAFF}
+	EndGlobalSection
+EndGlobal
